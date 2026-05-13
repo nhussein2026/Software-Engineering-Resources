@@ -24,7 +24,12 @@ Curated roadmaps and skill trees to guide learning paths for various roles:
 
 ### 📄 Papers
 Academic papers and technical reports:
-- **AI**: AI-Driven Virtual Teachers
+- **AI**: AI-Driven Virtual Teachers, LLM research.
+- **Dataset Bias**: Mitigation strategies and bias analysis.
+- **Datasets**: Sample datasets for performance analysis.
+- **Education**: Impact of conflict on education and academic studies.
+- **Writing Resources**: Guides on writing professional research papers.
+- **General**: Research notes and drafts.
 
 ## 🚀 Getting Started
 
